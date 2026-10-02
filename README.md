@@ -16,4 +16,4 @@ Despite being interested in Hardware and Electronics I'm not very good at them b
 - [Nand2Tetris in Verilog](https://github.com/block-01/nand2tetris-verilog)
   - I want to learn some hardware design and learn how to use Verilog and SystemVerilog as at some point I want to try to move into a more hardware related role.
 - [DnD Initiative Tracking Application](https://github.com/block-01/DnD-initiative-tracker)
-  - I want a way to track Initiative when I DM DnD and I fancies learning some Rust.
+  - I want a way to track Initiative when I DM DnD and I fancied learning some Rust.
