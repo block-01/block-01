@@ -12,6 +12,13 @@
 Software and Hardware Engineering and Electronics.<br>
 Despite being interested in Hardware and Electronics I'm not very good at them but I want to get better at it :D
 
+## Currently learning
+- Improving my skills with C and low level development
+- Having a look at some Rust
+- Hardware Development and Verification
+  - Verilog
+  - System Verilog  
+
 ## Personal Projects
 - [Nand2Tetris in Verilog](https://github.com/block-01/nand2tetris-verilog)
   - I want to learn some hardware design and learn how to use Verilog and SystemVerilog as at some point I want to try to move into a more hardware related role.
